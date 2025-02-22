@@ -5,7 +5,7 @@
  */
 
  #include <stdio.h>
- #include "../../../modules/lsh/lsh.h"
+ #include "../../lsh.h"
  
  int main(void)
  {
