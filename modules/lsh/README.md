@@ -1,1 +1,0 @@
-# LSH (Lua Shell)
